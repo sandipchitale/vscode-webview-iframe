@@ -1,0 +1,1 @@
+/starter.zip?type=gradle-project&language=java&bootVersion=3.0.3&baseDir=demo&groupId=com.example&artifactId=demo&name=demo&description=Demo%20project%20for%20Spring%20Boot&packageName=com.example.demo&packaging=jar&javaVersion=17
